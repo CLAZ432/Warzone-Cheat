@@ -79,3 +79,11 @@
 - Rapid Fire
 
 - Spoof Username
+
+
+## 📝 〢 License
+
+Copyright © 2022
+[CLAZ432](https://github.com/CLAZ432).<br />
+
+
